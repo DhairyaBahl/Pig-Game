@@ -2,6 +2,8 @@
 Pig Game
 This is my First Project.
 
+This Website is beginner friendly. I have explained everything about each and every function in detail for reference of the reader.
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
@@ -12,6 +14,8 @@ GAME RULES:
 
 Anyone can Edit this code. Those who want to talk to me about the code or want to share ideas dont hesitate and create a pull request.
 You can also contact the undersigned
+
+Any Contribution Will be appreciated. I you want, you can also try to find and open an issue.
 
 www.linkedin.com/in/dhairya-bahl/
 
